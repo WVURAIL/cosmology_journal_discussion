@@ -1,0 +1,16 @@
+The paper primarily discusses the results of statistical cross-correlation between CHIME/FRB catalog 1 FRBs (489 out of 492 FRBs to be precise) and galaxies from three surveys: WISExSCOS, DESI-BGS, and DESI-LRG. The primary reason for performing such correlation between CHIME/FRB and galaxies from three mentioned catalogs being FRBs cannot be localized and associated with the host galaxies in time-efficient manner. In addition, the angular resolution of CHIME/FRB is not sufficient to associate FRBs with unique host galaxies except the ones with low dispersion measure DM <= 200 pc/cm3. By measuring the correlation statistically as a function galaxy redshift z and FRBs DM, redshifts and other properties of FRBs can be constrained so that one-to-one mapping is no more required. 
+
+Angular power spectrum, a fourier statistic which provides a level of correletion between CHIME FRBs and galaxies as a function of wavenumber l, redshift z and extragalactic DM has been estimated/measured. 
+
+Statistically significant correlation was found between the two, specifically in the redshift range 0.3 <= z <= 0.5. Moreover, nonzero correlation was found in three highest DM bins (Figure 8) i.e. roughly DM >= 785 pc/cm3. Subtracting galactic (Mily way) DM (which is 10 <= DMgal <= 100) and taking into account Inter-Galactic Medium (IGM) DM~360 pc/cm3, host galaxies DMs are determined to be of the order of DM~400 pc/cm3. This is in direct contradiction with what we have got till the date i.e. 13 out of 14 FRBs have been localized to their host galaxies having DM~200 pc/cm3. Only one direct association of FRB has host DM >= 785 pc/cm3 at z~0.6. Thus, one cannot rule out the possibility of high-DM FRB-galaxy correlation. It also depends on selection function of FRB survey. Future surveys that are sensitive to fainter sources (large SNRs) may detect large number of FRBs with high-redshift and thus, it is quite possible that FRBs with High-DM may come from the high redshift values. Another possible mechanism for such large host DM values is contribution from the gas in the large halos. For FRBs lying near the centre of such large halos (Bright galaxies resides in large dark matter halos), the host halo DM can be > 400 pc/cm3. 
+
+These results can be interpreted further: 1. To constrain high-Z range of the FRB redshift distribution, where direct associations are difficult as individual galaxies are usually faint at such huge distances. 2. Very high-z FRBs, if present, can be used to constrain cosmic reionization history (topic to be discussed in future meets). 
+
+
+Other discussed matter:
+1. Definition of dispersion measure (DM) and interpreting its units (pc/cm3) -> Integral of electron density over the distance 
+2. Multibeam detection -> how the nominal location of FRB in the sky is determined 
+3. Hypothesis test -> statistical significance parameter p
+4. Relation between DM and z 
+5. Baryon Acoustic Oscillations (BAO) and what BAO peak signifies 
+
