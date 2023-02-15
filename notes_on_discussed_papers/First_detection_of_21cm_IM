@@ -1,0 +1,23 @@
+The paper reports the first direct detection of 21 cm intensity mapping (auto power spectrum) at z ~ 0.32 and z ~ 0.44 where observations are taken in 
+L-band (856 MHz < f < 1712 MHz) receivers of MeerKat radio telescope. Similar work has been reported by https://doi.org/10.1093/mnrasl/slt074 at z ~ 0.8 
+with Green Bank Telescope. Another formalism to measure power specturm using 21 cm intensity signal is cross-correlation with galaxy surveys. The observed 
+field for the IM mapping is J2000 located at α = 04h13m26.4s, δ = −80°0′0′′, specifically selected to minimize the effects due to bright foreground sources
+in the target field.
+
+In this work, delay power spectrum is computed by adopting visibility-based approach. Visibility for each antenna pair (2D fourier transform of sky at each 
+frequency v and time t) is measured and then Fourier transform of visibilities is computed along the frequency axis, resulting in delay transform (delay 
+cubes). Finally, cross correlation between these different delay cubes is performed to produce 3D power spectrum. Weighng of the 3D power spectrum using 
+inverse covariance parameter further results into 2D (as a function of k∥ & k⊥)  and 1D ( as a function of K-bin) power spectrum. Foreground avoidance has 
+been applied by constraining the results to k∥ = 0.3k⊥.
+
+In 1D spectrum, significant detection is seen at both the redshifts z ~ 0.32 and Z ~ 0.44 and the measured spectrum drops as k value increases. The resulting
+spectrum is then used to estimate the preliminery constraints on the HI shot noise, velocity dispersion and HI mass function. 
+
+The results obtained can further be used to: I. extract astrophysical information on the HI galaxies, II. provide well-defined constraints on HI mass 
+function, halo model and the nature of redshift space distortions on Mpc scales.
+
+Other matter discussed in this meet:
+1. Finger-of-god (FOG) effect --> Redshift-space distortions observed when peculiar motion of the galaxy is comparable to Hubble expansion rate
+2. Stokes parameters (I, Q, U, V)
+
+
